@@ -9,7 +9,7 @@ Tactically lead your units in the regional and join in continental theaters (War
 
 Perform deterium coverage maneuvers on the sea (Pirates! Gold)
 
-Build defensive fortifications (SIM City) and direct robotic battles for H3 control on Moon's hot spots (HMM3)
+Build defensive fortifications (SimCity 2000) and direct robotic battles for H3 control on Moon's hot spots (HMM3)
 
 Map more Earth bound asteriods than ABC (Space Quest)
 
