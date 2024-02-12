@@ -5,7 +5,7 @@ The year is 2128.  The new NLNM combat system has just been implemented but thi
 
 Strategically move divisions and organize supply lines (Civ2)
 
-Tactically lead your units in the regional and join in continental theaters (Warcraft).
+Tactically lead your units in the regional and join in continental theaters (Warcraft: Orcs & Humans, but NO Orcs!).
 
 Perform deterium coverage maneuvers on the sea (Pirates! Gold)
 
