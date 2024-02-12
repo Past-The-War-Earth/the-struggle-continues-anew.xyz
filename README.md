@@ -13,4 +13,4 @@ Build defensive fortifications (SIM City) and direct robotic battles for H3 cont
 
 Map more Earth bound asteriods than ABC (Space Quest)
 
-Maintain channels of communication with the diplomatic core - Civ diplomacy screens.
+Maintain channels of communication via the diplomatic corps - Civ 1 diplomacy screens.
