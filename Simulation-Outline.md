@@ -1,5 +1,7 @@
 # Simulation Outline
 
+Hubly presenting the following, constructed with God's help outline:
+
 Simulation will consist of 3 parts:
 
 I.  Selection  screen with picking commanders of squad, platoon, company, battalion and regiment.  Squad level is to be disabled.  They should be represented by a frontal animated visual of the commanders, with the realistic animation the 4 platoon and up commanders and a still squad commander.  Shown in reverse order in reverse order of the video fragment of WWII company commanders and distinguished private, duplicating the same feel:
@@ -32,7 +34,6 @@ https://votecube.com/#!/poll/info/Cube/vote/kBSVLFHn01lMtvPXYIzu/4vz9cPyZiMoaGG4
 
 Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
 
-Communication with soldiers is done via tradional horns and flags.  Emphasis on the symbolic and morale values. 
-
+Communication with soldiers is done via tradional horns and flags.  Emphasis on the symbolic and morale values.
 
 Stretch goal - Parallel or decisively pre-seeding Low-Level-Autonomous Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
