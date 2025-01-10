@@ -18,7 +18,7 @@ II. The simulation is that of refined pre-firearm combat.  With following regul
 
 4) Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.
 
-5) Main infantry armored with helmets and lower body armor (belt and below).  Equipped with boxing gloves and a large shield.
+5) Main infantry armored with helmets and lower body armor (belt and below).  Equipped with boxing gloves and a large shield.  ?Battalion? division by weight class is to be clearly seen.  Underweighting placed in the Projectile force.
 
 NOTE: In the spirit of the legend of 40 staff armed shaolin monks stopping an invasion, if both commands choose to field only the staff wielding forces the parties can choose to spare the young men and prevent the main battle based on the outcome of the staff engagement.
 
