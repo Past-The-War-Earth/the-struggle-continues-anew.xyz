@@ -16,7 +16,7 @@ II. The simulation is that of refined pre-firearm combat.  With following regul
 
 3) Lightly armored, staff armed infantry.  Consists of squad leaders - totalling 3 * 3 * 3 * 3 = 81 people.
 
-4) Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.  Refined pre-industrial artillery possible, within NLNM objectives (proper clustering of payload to avoid impact and suffociation damage, balistic tragectory, density control).
+4) Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.  Refined pre-industrial artillery possible, within NLNM objectives (proper clustering of payload to avoid impact and suffociation damage, balistic trajectory, density control).
 
 5) Main infantry armored with helmets and lower body armor (belt and below).  Equipped with boxing gloves and a large shield.  ?Battalion? division by weight class is to be clearly seen.  Underweighting placed in the Projectile force.
 
