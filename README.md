@@ -1,16 +1,17 @@
 # the-struggle-continues-anew.xyz
-Lets envision the Non-Lethal, Non-Mutilating, No Serious Injury future of warfare!
 
-The year is 2128.  The new NLNM combat system has just been implemented but things are going horribly wrong.  Spain enlarges its platoons, Russians are taking their helmets off, and the East is a complete mess.  The UN house won't vote on the Europa migration pilot and we are losing sight of the goal.  You have been placed as the chief of staff of XYZ - the one country that is determined to get it done.  Your team must:
+Realistic simulation of the NLNM (Non-Lethal, Non-Mutilating, No Serious Injury) warfare.
 
-Strategically move divisions and organize supply lines (Civ2)
+Inspirational statement (from original game-alike draft):
 
-Tactically lead your units in the regional and join in continental theaters (Warcraft: Orcs & Humans, but NO Orcs!).
+"The year is 2128.  The new NLNM combat system has just been implemented but things are going horribly wrong.  Spain enlarges its platoons, Russians are taking their helmets off, and the East is a complete mess.  The UN house won't vote on the Europa migration pilot and we are losing sight of the goal.  You have been placed as the chief of staff of XYZ - the one country that is determined to get it done."
 
-Perform deterium coverage maneuvers on the sea (Pirates! Gold)
+Tactical (boxing version) NLNM combat in-regional and (jointly) continental theaters.
 
-Build defensive fortifications (SimCity 2000) and direct robotic battles for H3 control on Moon's hot spots (HMM3)
+Tactical non-piloted mech warfare in separate engagements.
 
-Map more Earth bound asteriods than ABC (Space Quest)
+Strategic division positioning and supply line organization.
 
-Maintain channels of communication via the diplomatic corps - Civ 1 diplomacy screens.
+Deuterium coverage sea maneuvers.
+
+Constructing defensive fortifications.
