@@ -4,7 +4,7 @@ Hubly presenting the following, constructed with God's help outline:
 
 Simulation will consist of 3 parts:
 
-I.  Selection  screen with picking commanders of squad, platoon, company, battalion and regiment.  Squad level is to be disabled.  They should be represented by a frontal animated visual of the commanders, with the realistic animation the 4 platoon and up commanders and a still squad commander.  Shown in reverse order in reverse order of the video fragment of WWII company commanders and distinguished private. Duplicating the same feel of an alike situation for non-lethal, not-mutilating, no serious risk of severe injury (keeping in mind possibility of lance breaking for upper command and captains in HQs, See II.1) version (no physical or character resemblance):
+I.  Selection  screen with picking commanders of squad, platoon, company, battalion and regiment.  Squad level is to be disabled.  They should be represented by a frontal animated visual of the commanders in an manner alike the setting in the example below (reverse the example's possibly hinted at top-down order). Match the same feel of an alike situation for non-lethal, not-mutilating, no serious risk of severe injury (keeping in mind possibility of lance breaking for upper command and captains in HQs, See II.1) version (no physical or character resemblance):
 
 https://past-the-war-earth.pages.dev/notes/Dedicated_to_all_combatants_of_WWII-Lest_we_forget-we_are_all_first_and_foremost_humans
 
