@@ -11,7 +11,3 @@ Tactical (boxing version) NLNM combat in-regional and (jointly) continental thea
 Tactical non-piloted mech warfare in separate engagements.
 
 Strategic division positioning and supply line organization.
-
-Deuterium coverage sea maneuvers.
-
-Construction of defensive fortifications.
