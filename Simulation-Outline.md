@@ -12,7 +12,7 @@ The age of the roles sould be reflected with mininum of 5 years of service requi
 
 II. The simulation is that of refined pre-firearm combat.  With following regulations:
 
-1) Cavalry - armored heavy cavalry with non-piercing lances.  Consists of battalion command/morale/headquarters and regiment headquarters/communication officers - totalling 25 people.
+1) Cavalry - armored heavy cavalry with non-piercing lances.  Consists of battalion command/morale/headquarters and regiment headquarters/communication officers - totalling 27 people.
 
 2) Armored infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officers are Red Army inspired additional commisioned officer position. => ~ totalling company(platoon(3) * 3 + 3) * 3 * 3 = 36 = 108 people.  
 
