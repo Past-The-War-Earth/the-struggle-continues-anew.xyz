@@ -6,7 +6,7 @@ I.  Selection  screen with picking commanders of squad, platoon, company, batt
 
 https://past-the-war-earth.pages.dev/notes/Dedicated_to_all_combatants_of_WWII-Lest_we_forget-we_are_all_first_and_foremost_humans
 
-The background music should be inspired by the same song of the video in the note linked above.
+The age of the roles sould be reflected with mininum of 5 years of service required at each level of command (plus the education years for the commissioned officers).  The non-commissioned officer officer should look mature but undeterminably youthful. The background music should be inspired by the same song of the video in the note linked above.
 
 II. The simulation is that of refined pre-firearm combat.  With following regulations:
 
