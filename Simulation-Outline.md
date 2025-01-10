@@ -35,4 +35,4 @@ Non-combat drones are to be shown above the battlefield, enabling expedient evac
 Communication with soldiers is done via tradional horns and flags.  Emphasis on the symbolic and morale values. 
 
 
-Strech goal - Parallel or decisively pre-seeding Low-Level-Autonomous Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
+Stretch goal - Parallel or decisively pre-seeding Low-Level-Autonomous Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
