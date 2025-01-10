@@ -14,4 +14,4 @@ Strategic division positioning and supply line organization.
 
 Deuterium coverage sea maneuvers.
 
-Constructing defensive fortifications.
+Construction of defensive fortifications.
