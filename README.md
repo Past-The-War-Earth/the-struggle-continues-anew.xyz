@@ -9,5 +9,3 @@ Inspirational statement (from original game-alike draft):
 Tactical (boxing version) NLNM combat in-regional and (jointly) continental theaters.
 
 Tactical non-piloted mech warfare in separate engagements.
-
-Strategic division positioning and supply line organization.
