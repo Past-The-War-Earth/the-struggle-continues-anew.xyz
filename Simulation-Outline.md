@@ -31,3 +31,5 @@ III.  A decision making interface is to be done via simulated augmented reality
 https://votecube.com/#!/poll/info/Cube/vote/kBSVLFHn01lMtvPXYIzu/4vz9cPyZiMoaGG4JOh6t
 
 Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
+
+Communication with soldiers is done via tradional horns and flags.  Emphasis on the symbolic and morale values. 
