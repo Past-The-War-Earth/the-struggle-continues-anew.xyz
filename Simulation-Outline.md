@@ -19,11 +19,15 @@ II. The simulation is that of refined pre-firearm combat.  With following regul
 4) Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.
 
 5) Main infantry armored with helmets and lower body armor (belt and below).  Equipped with boxing gloves and a large shield.
+
 NOTE: In the spirit of the legend of 40 staff armed shaolin monks stopping an invasion, if both commands choose to field only the staff wielding forces the parties can choose to spare the young men and prevent the main battle based on the outcome of the staff engagement.
+
 NOTE: The general expectation is for the officer cores to engage early on before the main forces enter the battle, or not to engage at all.  For most cases controlled engagements of main infantry are expected, with staff force directly enforcing the rules of engagement.  At a later time more options, such as regional equipment and related tactics variations or devolution to intermingled combat may be available.
 
 NOTE:  Officer combat simulation is to be in first person (with staff combat to be implemented at a later time).  The rest of the battle is in command mode for officers.
+
 III.  A decision making interface is to be done via simulated augmented reality decision cube, allowing for near instantaneous data entry and reporting and real-time updates.  The interface should resemble that of Votecube prototype:
+
 https://votecube.com/#!/poll/info/Cube/vote/kBSVLFHn01lMtvPXYIzu/4vz9cPyZiMoaGG4JOh6t
 
 Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
