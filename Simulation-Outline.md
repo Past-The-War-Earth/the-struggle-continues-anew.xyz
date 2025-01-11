@@ -8,13 +8,13 @@ I.  Selection  screen with picking commanders of squad, platoon, company, batt
 
 https://past-the-war-earth.pages.dev/notes/Dedicated_to_all_combatants_of_WWII-Lest_we_forget-we_are_all_first_and_foremost_humans
 
-The age of the roles sould be reflected with mininum of 5 years of service required at each level of command (plus the education years for the commissioned officers) - enforced by 3 year rank promotion (3rd, 2nd, 1st lieutenant, captain, major, lieutenant colonel, colonel).  The non-commissioned officer officer should look mature but undeterminably youthful. The background music should be inspired by the same song of the video in the note linked above.
+The age of the roles sould be reflected with mininum of 5 years of service required at each level of command (plus the education years for the commissioned officers) - enforced by 3 year rank promotion (3rd, 2nd, 1st lieutenant, captain, major, lieutenant colonel, colonel).  The non-commissioned officer should look mature but undeterminably youthful. The background music should be inspired by the same song of the video in the note linked above.
 
 II. The simulation is that of refined pre-firearm combat.  With following regulations:
 
 1) Cavalry - armored heavy cavalry with non-piercing lances.  Consists of battalion command/morale/headquarters and regiment headquarters/communication officers - totalling 27 people.
 
-2) Armored infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officers are Red Army inspired additional commisioned officer position. => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
+2) Armored infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officer is a Red Army inspired additional commisioned officer position. => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
 
 3) Lightly armored, staff armed infantry.  Consists of squad leaders - totalling (simulation proposal only, rough total numeric equivalent across nations is desirable, See II.NOTE 1) => ~ platoon(squad(team(1) * 3 + 2) * 3 + 1): 16 * 3 * 3 * 3 = 432 people.
 
