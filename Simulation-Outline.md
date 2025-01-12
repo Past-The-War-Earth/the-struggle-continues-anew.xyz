@@ -14,7 +14,7 @@ II. The simulation is that of refined pre-firearm combat.  With following regul
 
 1. Cavalry - armored heavy cavalry with non-piercing lances.  Consists of battalion command/morale/headquarters and regiment headquarters/communication officers - totalling 27 people.
 
-2. Armored infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officer is a Red Army inspired additional commisioned officer position. => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
+2. Armored infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officer is a Red Army inspired additional commisioned officer position => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
 
 3. Lightly armored, staff armed infantry.  Consists of squad leaders - totalling (simulation proposal only, rough total numeric equivalent across nations is desirable, See II.NOTE-1) => ~ platoon(squad(team(1) * 3 + 2) * 3 + 1): 16 * 3 * 3 * 3 = 432 people.
 
