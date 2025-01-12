@@ -45,4 +45,8 @@ IV. Stretch goals:
 
 2. Parallel or decisively pre-seeding Low-Level-Autonomous Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
 
+V. Long term additions:
 
+1. Non-game simulation of non-piloted (quantum entanglement controlled) mech combat.
+
+2. ? Projectile-based NLNM for urban (non-industrial) combat ?
