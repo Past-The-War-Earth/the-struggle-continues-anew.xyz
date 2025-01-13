@@ -30,6 +30,8 @@ NOTE-3: Officer combat simulation is to be in first person (with staff combat t
 
 NOTE-4: The armor of all types of forces should be estetically pleasing, in the spirit of 18th century military uniforms (given no need for camouflage in this version of NLNM).  It should cleary display nations colors and the (Sub)-Continental block it belongs to.  The weapons should also reflect the corresponding national character and be elegant in appearance.  When before the battle sides may play their patriotic music.  General emphasis on warrior honor must be clearly apparent.
 
+Inspirational video of national-styled armor and honorable demeanor:
+
 https://youtu.be/GqIMhrS14B0?si=9oYixkQKCQjfIjEv
 
 III.  
@@ -103,3 +105,9 @@ VI. Long term additions:
 [Example of current air drone agility](https://youtu.be/vntz6ZmVCfg?si=HyIPa0ZzkBj7Pi_M)
 
 4. Possible (Non)-Commissioned officer progression from NLNM combat to Mech combat (as Heavy, Mid or Light Mech remote pilot, per their NLNM specialization) after minimum required NLNM/physical service (with option to remain in NLNM given low injury rate).  Compare results to pilots entering directly into Mech force.  General expectation of the appreciation of the forces involved and need to preserve hardware to play a key role in success as Mech pilot.
+
+5. Research how to separate high tech maneuvering and competition for areas of influence from NLNM combat.  Likely area drone to drone combat could determine changes in zones of influence.  Carrier platforms as well as other surface naval craft is assumed to not have any future offensive value, research defencive naval technology (likely laser and acute EMF shield based).  Research close quarter sea combat of late 17th - early 18th centuries as the model for naval NLNM combat - default assumption of refined adhesive projectile cannons, engagement zone ship maneuvering and abordage tactics.  Come up with high-tech NLNM equivalents.
+
+Inspirational video for tactics research:
+
+https://youtu.be/OHyVRkmla_Y?si=5WFeJaVAnE2gtdrb
