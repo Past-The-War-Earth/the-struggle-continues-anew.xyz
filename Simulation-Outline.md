@@ -14,21 +14,21 @@ II. The simulation is that of refined pre-firearm combat.  With following regul
 
 1. Cavalry - armored heavy cavalry ?with non-piercing lances?.  Consists of battalion command/morale/headquarters and regiment headquarters/communication officers - totalling 27 people.
 
-2. Armored (assisted) infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officer is a Red Army inspired additional commisioned officer position => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
+2. Armored (assisted) infantry with non-piercing shields and swords.  Consists of platoon and company command and morale officers (at each level commander, deputy, morale officer). Morale officer is a Red Army inspired additional commissioned officer position => ~ totalling company(platoon(3) * 3 + 3): 12 * 3 * 3 = 108 people.  
 
 3. Lightly armored (adjility assisted), staff armed infantry.  Consists of squad leaders - totalling (simulation proposal only, rough total numeric equivalent across nations is desirable, See II.NOTE-1) => ~ platoon(squad(team(1) * 3 + 2) * 3 + 1): 16 * 3 * 3 * 3 = 432 people.
 
-4. Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.  Mobile artillery (inspired by pre-industrial artillery) within NLNM objectives (proper clustering of payload to avoid impact and suffociation damage, balistic trajectory, density control). Adhesive artillery provides a force balance against cavalry.
+4. Projectile force (sling, bow) delivering adhesive compound that slows down movement.  The armor of the forces above is immune to the adhesive.  All forces wear helmets that prevent any possible suffocation.  Mobile artillery (inspired by pre-industrial artillery) within NLNM objectives (proper clustering of payload to avoid impact and suffocation damage, ballistic trajectory, density control). Adhesive artillery provides a force balance against cavalry.
 
-5. Main (shield) infantry armored with helmets and assisted lower body armor (belt and below) and simple upper body armor.  Equipped with upgraded boxing gloves (to be inspeced or supplied by UN arbiter drones, see III.b.) and a large shield.  ?Battalion? division by weight class is to be clearly seen.  Underweighting placed in the Projectile force.
+5. Main (shield) infantry armored with helmets and assisted lower body armor (belt and below) and simple upper body armor.  Equipped with upgraded boxing gloves and a large shield.  ?Battalion? division by weight class is to be clearly seen.  Underweighting placed in the Projectile force.
 
 NOTE-1: In the spirit of the legend of 40 staff armed Shaolin monks stopping an invasion (and given the NLNM/mech separation of concerns, see IV.2.), if both commands choose to field the staff wielding forces in front, the parties can agree to spare the young men and prevent the main battle based on the outcome of the staff engagement. Additional officer-only formation and intermixed setups are possible and an exchange of formation modifications is expected prior to battle. Full fielding of non-commissioned officers in any formation combination indicates stated non-involvement of short-term soldier contingent in the battle.
 
 NOTE-2: The general expectation is for the officer cores to engage early on before the main forces enter the battle, or not to engage at all.  For most cases controlled engagements of main infantry are expected, with staff force directly enforcing the rules of engagement.  At a later time more options, such as regional equipment and related tactics variations or devolution to intermingled combat may be available.
 
-NOTE-3: Officer combat simulation is to be in first person (with staff combat to be implemented at a later time).  The rest of the battle is in command mode for officers.  The option of immediate temporary promotion or battle-to-battle promotion based on injury of commanding officer is possible (platoon to company and batallion to regiment). Rare company to batallion command delegation (due to tactical concentration of heavy force of upper command) is possible with software enforced command and control difficulties.  Injury rates in officers are expected to be somewhat higher, though all depends on tactics, training and discipline within and across the sides. NO SERIOUS INJURY! Light concussions from repeated blut blows, depletion OK.
+NOTE-3: Officer combat simulation is to be in first person (with staff combat to be implemented at a later time).  The rest of the battle is in command mode for officers.  The option of immediate temporary promotion or battle-to-battle promotion based on injury of a commanding officer is possible (platoon to company and battalion to regiment). Rare company to battalion command delegation (due to tactical concentration of heavy force of upper command) is possible with software enforced command and control difficulties.  Injury rates in officers are expected to be somewhat higher, though all depends on tactics, training and discipline within and across the sides. NO SERIOUS INJURY! Light concussions from repeated blut blows, depletion OK.
 
-NOTE-4: The armor of all types of forces should be estetically pleasing, in the spirit of 18th century military uniforms (given no need for camouflage in this version of NLNM).  It should cleary display nations colors and the (Sub)-Continental block it belongs to.  The weapons should also reflect the corresponding national character and be elegant in appearance.  When before the battle sides may play their patriotic music.  General emphasis on warrior honor must be clearly apparent.
+NOTE-4: The armor of all types of forces should be aesthetically pleasing, in the spirit of 18th century military uniforms (given no need for camouflage in this version of NLNM).  It should clearly display nations colors and the (Sub)-Continental block it belongs to.  The weapons should also reflect the corresponding national character and be elegant in appearance.  Before the battle sides may play their patriotic music.  General emphasis on warrior honor must be clearly apparent.
 
 Inspirational video of national-styled armor and honorable demeanor:
 
@@ -43,7 +43,7 @@ b. Non-combat drones are to be shown above the battlefield, enabling expedient e
 
 c. Field overhead view is also to be present in augmented reality views, at appropriate levels for different types of command from different heights, down to non-commissioned officers.  Appropriate command interfaces are to be displayed as well.  Visual command interfaces are to be displayed along with associated arm, hand and finger movement animations.  No voice commands for AR interface.  Incoming voice communications can be pre-recorded.  Outgoing voice communications are to be implemented at a future time, for multi-participant simulations.  Eventual goal is for mass-participant simulations at all levels, with realistic communication appropriate to the rank. For example the battalion HQ officers are expected to have the option of seeing an overhead view of each of the companies and ability to communicate together via shared, avatar signed AR selection grouping and icon annotation.
 
-d. Communication with soldiers is done via tradional horns and flags.  Emphasis on the symbolic and morale values.
+d. Communication with soldiers is done via traditional horns and flags.  Emphasis on the symbolic and morale values.
 
 IV. Stretch goals:
 
@@ -67,11 +67,11 @@ https://youtu.be/xEVwkzAcqOQ?si=e6g5FdbxPF7t_C0f
 
 ii.  Heavy mechanically assisted infantry is superior in armament and targeted EMF shielding, rendering it virtually invulnerable to artillery.  It can scatter shield infantry when it does not have proper formation and can break its formation when it is not in full shield structure.  It is vulnerable to being tied down by the light infantry and by being overrun by mechanized cavalry.
 
-By full adoptin stage, the capabilities of the agility and low-level movement control assistance of heavy mechanized armor should approach the below demonstrated capabilities:
+By full adoption stage, the capabilities of the agility and low-level movement control assistance of heavy mechanized armor should approach the below demonstrated capabilities:
 
 https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu
 
-iii.  Light infantry (having armor with rechargeable capacitors and rapid fine movement assistance) outmaneuvers heavy infantry (when successfully avoiding its weaponry). Its versatile and adjustable staff weaponry is not affected by EMF shielding.  It is not as vulnerable to mechanized cavalry and artillery (given its low-level movement, autonomous armor assistance).  It is similarly well balanced against shield infrantry, not being able to penetrate full shielding but easily bypassing partial shield formations.
+iii.  Light infantry (having armor with rechargeable capacitors and rapid fine movement assistance) outmaneuvers heavy infantry (when successfully avoiding its weaponry). Its versatile and adjustable staff weaponry is not affected by EMF shielding.  It is not as vulnerable to mechanized cavalry and artillery (given its low-level movement, autonomous armor assistance).  It is similarly well balanced against shield infantry, not being able to penetrate full shielding but easily bypassing partial shield formations.
 
 By full adoption stage, the capabilities of the agility and low-level movement control assisted armor and the versatility of the staff should match the demonstrated below movement and weapon capabilities:
 
@@ -82,7 +82,7 @@ iv. Heavy artillery can disable mechanized infantry when it's not in full shiel
 v. The shield infantry can construct fully impervious, adjustable to terrain shields at squad, platoon and company levels that can effectively act as carriers for light infantry, heavy infantry and up to few mechanized cavalry men respectively.  When not in full formation it is most vulnerable to artillery and mechanized cavalry.
 
 3. Hybrid mechanization:
-The hybrid mechanization of the forces allows to test out the dynamics of fully mechanized warfare without any casualties or mass expenditures, at small or large scale, and [continously train](https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu) personnel in battle conditions.  It roughly follows the dynamics present in Mech Arena, with more force types.
+The hybrid mechanization of the forces allows to test out the dynamics of fully mechanized warfare without any casualties or mass expenditures, at small or large scale, and [continuously train](https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu) personnel in battle conditions.  It roughly follows the dynamics present in Mech Arena, with more force types.
 
 i.  Mechanized cavalry roughly equates to airborne mech carriers (given that the cavalry men can dismount and act as hybrid mid-level infantry).  It is vulnerable to artillery due to high visibility and due to advanced targeting techniques of the artillery, large size and relatively low vector change capability at high speeds.  When slowing down for deployment or collection it is also vulnerable to heavy and light mechs.
 
@@ -92,7 +92,7 @@ iii. Light mechanized infantry roughly equates to light mechs, with their superi
 
 iv. Heavy artillery and light mobile artillery roughly follows the traditional dynamics but is ineffective against collective shielding of mechanized infantry.
 
-v. Shield infrantry roughly equates to mechanized infantry with small to medium fire, short range weapons. In addition it is able to collectively construct impervious (active and passive) shielding and provide cover for mechs and in some cases mech carriers.
+v. Shield infantry roughly equates to mechanized infantry with small to medium fire, short range weapons. In addition it is able to collectively construct impervious (active and passive) shielding and provide cover for mechs and in some cases mech carriers.
 
 VI. Long term additions:
 
@@ -106,7 +106,7 @@ VI. Long term additions:
 
 4. Possible (Non)-Commissioned officer progression from NLNM combat to Mech combat (as Heavy, Mid or Light Mech remote pilot, per their NLNM specialization) after minimum required NLNM/physical service (with option to remain in NLNM given low injury rate).  Compare results to pilots entering directly into Mech force.  General expectation of the appreciation of the forces involved and need to preserve hardware to play a key role in success as Mech pilot.
 
-5. Research how to separate high tech maneuvering and competition for areas of influence from NLNM combat. Likely area drone to drone combat could determine changes in zones of influence. Carrier platforms as well as other surface naval craft is assumed to not have any future offensive value, research defensive naval technology (likely laser and acute EMF shield based). Research close quarter sea combat of late 17th - early 18th centuries as the model for naval NLNM combat - default assumption of refined adhesive projectile cannons, engagement zone ship maneuvering and abordage/boarding tactics. Come up with high-tech NLNM equivalents.
+5. Research how to separate high tech maneuvering and competition for areas of influence from NLNM combat. Likely area drone to drone combat could determine changes in zones of influence. Research future offensive capabilities of carrier platforms as well as other surface naval craft. Research defensive naval technology (laser, targeted EMF shields). Research close quarter sea combat of late 17th - early 18th centuries as the model for naval NLNM combat - default assumption of refined adhesive projectile cannons, engagement zone ship maneuvering and abordage/boarding tactics. Come up with high-tech NLNM equivalents.
 
 Inspirational video for tactics research:
 
