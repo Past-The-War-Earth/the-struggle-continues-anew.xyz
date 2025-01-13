@@ -61,9 +61,13 @@ https://youtu.be/xEVwkzAcqOQ?si=e6g5FdbxPF7t_C0f
 
 ii.  Heavy mechanically assisted infantry is superior in armament and targeted EMF shielding, rendering it virtually invulnerable to artillery.  It can scatter shield infantry when it does not have proper formation and can break its formation when it is not in full shield structure.  It is vulnerable to being tied down by the light infantry and by being overrun by mechanized cavalry.
 
+By full adoptin stage, the capabilities of the agility and low-level movement control assistance of heavy mechanized armor should approach the below demonstrated capabilities:
+
+https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu
+
 iii.  Light infantry (having armor with rechargeable capacitors and rapid fine movement assistance) outmaneuvers heavy infantry (when successfully avoiding its weaponry). Its versatile and adjustable staff weaponry is not affected by EMF shielding.  It is not as vulnerable to mechanized cavalry and artillery (given its low-level movement, autonomous armor assistance).  It is similarly well balanced against shield infrantry, not being able to penetrate full shielding but easily bypassing partial shield formations.
 
-By full adoption stage, the apabilities of the adjility and low-level movement control assisted armor and the versatility of the staff should match the demonstrated below movement and weapon capabilities:
+By full adoption stage, the capabilities of the agility and low-level movement control assisted armor and the versatility of the staff should match the demonstrated below movement and weapon capabilities:
 
 https://youtu.be/_3XdmaxYOvM?si=M6eb1Gd8ajQxUQ9H
 
