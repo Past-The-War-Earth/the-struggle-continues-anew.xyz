@@ -111,3 +111,5 @@ VI. Long term additions:
 Inspirational video for tactics research:
 
 https://youtu.be/OHyVRkmla_Y?si=5WFeJaVAnE2gtdrb
+
+Symmetry of continuation in ground combat was revealed via continuous improvement of the proposal, thus revealing a historical cycle. Find symmetry between the most famous naval age (Age of Pirates( and the future of naval warfare and create a linking NLNM stage.  Assume that again separation of NLNM combat and strategically important remotely controlled (via quantum entanglement) mechanized combat.  Just as with ground combat, find the stage that links current naval combat to the NLNM stage combat.
