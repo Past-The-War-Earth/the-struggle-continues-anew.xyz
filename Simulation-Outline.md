@@ -43,9 +43,11 @@ IV. Stretch goals:
 
 1. All sound, including the background sound information matching the location of each of the participants.
 
-2. Parallel or decisively pre-seeding Low-Level-Autonomous Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
+2. Parallel or decisively pre-seeding Low-Level-Autonomous (remotely controlled via quantum entanglement controlled) Mech combat at strategic locations/choke points.  If possible integration with Mech Arena: https://plarium.com/en/game/mech-arena/
 
 V. Systematic Analysis:
+
+https://youtu.be/NlwIDxCjL-8?si=iOOnhnf1rKV8SB_h
 
 1. Terrain: The various forces can all navigate various terrain with varying degrees of speed and ability to pass through obstacles.  The mechanized cavalry will be capable of leaping large obstacles and traversing all land terrain at rapid speed.  Mechanized heavy artillery will be the second in sustained movement speed at relatively flat terrain with much larger range and range of fire.  Light armored infantry will quickly pass through any terrain due to adgility of the assisted armor.  Heavy armored infantry and projectile force will have relatively close terrain passing ability.  Shield infantry will be the slowest due to heavy weight of the shielding and power banks but has superior movement endurance given its assisted lower body armor and large shield power bank capacity.
 
@@ -53,9 +55,17 @@ V. Systematic Analysis:
 
 i.  Mechanized cavalry is superior in its range and speed but is very small in number.  It has the heaviest weaponry which is countered by the collective shield structures of the shield infantry.  It is vulnerable to heavy artillery and to a degree to concentrated light artillery, when combined with being tied down by superior numbers of heavy infantry, collectively capable of stopping cavalry and light infantry, capable of tying cavalry down.
 
+Capabilities of mechanized mounts are already present in all major militaries of the world:
+
+https://youtu.be/xEVwkzAcqOQ?si=e6g5FdbxPF7t_C0f
+
 ii.  Heavy mechanically assisted infantry is superior in armament and targeted EMF shielding, rendering it virtually invulnerable to artillery.  It can scatter shield infantry when it does not have proper formation and can break its formation when it is not in full shield structure.  It is vulnerable to being tied down by the light infantry and by being overrun by mechanized cavalry.
 
 iii.  Light infantry (having armor with rechargeable capacitors and rapid fine movement assistance) outmaneuvers heavy infantry (when successfully avoiding its weaponry). Its versatile and adjustable staff weaponry is not affected by EMF shielding.  It is not as vulnerable to mechanized cavalry and artillery (given its low-level movement, autonomous armor assistance).  It is similarly well balanced against shield infrantry, not being able to penetrate full shielding but easily bypassing partial shield formations.
+
+By full adoption stage, the apabilities of the adjility and low-level movement control assisted armor and the versatility of the staff should match the demonstrated below movement and weapon capabilities:
+
+https://youtu.be/_3XdmaxYOvM?si=M6eb1Gd8ajQxUQ9H
 
 iv. Heavy artillery can disable mechanized infantry when it's not in full shield formation.  It has a low degree of effectiveness against light infantry and is not effective against heavy infantry due to its armor shielding.  Force aided light artillery follows the same dynamics with less effectiveness against mechanized infantry (without heavy fire concentration) and higher degree of targeted effectiveness against non-full shield infantry.
 
@@ -76,6 +86,6 @@ v. Shield infrantry roughly equates to mechanized infantry with small to medium 
 
 VI. Long term additions:
 
-1. Non-game simulation of non-piloted (quantum entanglement controlled) mech combat.
+1. Non-game simulation of non-piloted (remotely controlled via quantum entanglement controlled) Mech combat.
 
 2. ? Projectile-based NLNM for urban (non-industrial) combat ?
