@@ -79,7 +79,8 @@ https://youtu.be/_3XdmaxYOvM?si=M6eb1Gd8ajQxUQ9H
 
 iv. Heavy artillery can disable mechanized infantry when it's not in full shield formation.  It has a low degree of effectiveness against light infantry and is not effective against heavy infantry due to its armor shielding.  Force aided light artillery follows the same dynamics with less effectiveness against mechanized infantry (without heavy fire concentration) and higher degree of targeted effectiveness against non-full shield infantry.
 
-v. The shield infantry can construct fully impervious, adjustable to terrain shields at squad, platoon and company levels that can effectively act as carriers for light infantry, heavy infantry and up to few mechanized cavalry men respectively.  When not in full formation it is most vulnerable to artillery and mechanized cavalry.
+v. The shield infantry can construct 
+near-fully impervious (given the ability of the associated Mech-level airborne mech carriers to pass through the shield, see V.3.i.) and virtually impervious when combined with artillery coverage, adjustable to terrain shields at squad, platoon and company levels that can effectively act as carriers for light infantry, heavy infantry and up to few mechanized cavalry men respectively.  When not in full formation it is most vulnerable to artillery and mechanized cavalry.
 
 3. Hybrid mechanization:
 The hybrid mechanization of the forces allows to test out the dynamics of fully mechanized warfare without any casualties or mass expenditures, at small or large scale, and [continuously train](https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu) personnel in battle conditions.  It roughly follows the dynamics present in Mech Arena, with more force types.
