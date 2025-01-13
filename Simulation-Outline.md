@@ -94,6 +94,6 @@ VI. Long term additions:
 
 2. ? Projectile-based NLNM for urban (non-industrial) combat ?
 
-3. Surface-to-air (laser guided drone tracking by the air defence projectile force, high velocity adjesive projectiles).   Simulate air drone to Mech combat.
+3. Surface-to-air (laser guided drone tracking by the air defence projectile force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.
 
 [Example of current air drone agility](https://youtu.be/vntz6ZmVCfg?si=HyIPa0ZzkBj7Pi_M)
