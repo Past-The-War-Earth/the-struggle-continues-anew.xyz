@@ -28,6 +28,10 @@ NOTE-2: The general expectation is for the officer cores to engage early on befo
 
 NOTE-3: Officer combat simulation is to be in first person (with staff combat to be implemented at a later time).  The rest of the battle is in command mode for officers.  The option of immediate temporary promotion or battle-to-battle promotion based on injury of commanding officer is possible (platoon to company and batallion to regiment). Rare company to batallion command delegation (due to tactical concentration of heavy force of upper command) is possible with software enforced command and control difficulties.  Injury rates in officers are expected to be somewhat higher, though all depends on tactics, training and discipline within and across the sides. NO SERIOUS INJURY! Light concussions from repeated blut blows, depletion OK.
 
+NOTE-4: The armor of all types of forces should be estetically pleasing, in the spirit of 18th century military uniforms (given no need for camouflage in this version of NLNM).  It should cleary display nations colors and the (Sub)-Continental block it belongs to.  The weapons should also reflect the corresponding national character and be elegant in appearance.  When before the battle sides may play their patriotic music.  General emphasis on warrior honor must be clearly apparent.
+
+https://youtu.be/GqIMhrS14B0?si=9oYixkQKCQjfIjEv
+
 III.  
 a. A decision making interface is to be done via simulated augmented reality decision cube, allowing for near instantaneous data entry and reporting and real-time updates.  The interface should resemble that of Votecube prototype:
 
