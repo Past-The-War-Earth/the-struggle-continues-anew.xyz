@@ -1,5 +1,9 @@
 # the-struggle-continues-anew.xyz
 
+Reasoning behind the project:
+
+https://past-the-war.earth/notes/future_projections-in_A_Better_World/Why_NLNM_and_not_just_Peace
+
 Realistic simulation of the NLNM (Non-Lethal, Non-Mutilating, No Serious Injury) warfare.
 
 Inspirational statement (from original game-alike draft):
