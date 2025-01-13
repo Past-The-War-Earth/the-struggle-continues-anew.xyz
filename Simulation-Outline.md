@@ -76,7 +76,7 @@ iv. Heavy artillery can disable mechanized infantry when it's not in full shiel
 v. The shield infantry can construct fully impervious, adjustable to terrain shields at squad, platoon and company levels that can effectively act as carriers for light infantry, heavy infantry and up to few mechanized cavalry men respectively.  When not in full formation it is most vulnerable to artillery and mechanized cavalry.
 
 3. Hybrid mechanization:
-The hybrid mechanization of the forces allows to test out the dynamics of fully mechanized warfare without any casualties or mass expenditures, at small or large scale.  It roughly follows the dynamics present in Mech Arena, with more force types.
+The hybrid mechanization of the forces allows to test out the dynamics of fully mechanized warfare without any casualties or mass expenditures, at small or large scale, and [continously train](https://youtu.be/DVkAC4b6SWQ?si=EE04CfpaNg6L5Xwu) personnel in battle conditions.  It roughly follows the dynamics present in Mech Arena, with more force types.
 
 i.  Mechanized cavalry roughly equates to airborne mech carriers (given that the cavalry men can dismount and act as hybrid mid-level infantry).  It is vulnerable to artillery due to high visibility and due to advanced targeting techniques of the artillery, large size and relatively low vector change capability at high speeds.  When slowing down for deployment or collection it is also vulnerable to heavy and light mechs.
 
