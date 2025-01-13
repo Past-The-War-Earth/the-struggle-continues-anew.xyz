@@ -97,3 +97,5 @@ VI. Long term additions:
 3. Surface-to-air (laser guided drone tracking by the air defence force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.
 
 [Example of current air drone agility](https://youtu.be/vntz6ZmVCfg?si=HyIPa0ZzkBj7Pi_M)
+
+4. Possible (Non)-Commissioned officer progression from NLNM combat to Mech combat (as Heavy, Mid or Light Mech remote pilot, per their NLNM specialization) after minimum required NLNM/physical service (with option to remain in NLNM given low injury rate).  Compare results to pilots entering directly into Mech force.  General expectation of the appreciation of the forces involved and need to preserve hardware to play a key role in success as Mech pilot.
