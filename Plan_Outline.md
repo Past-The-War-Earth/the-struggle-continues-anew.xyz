@@ -23,7 +23,7 @@ The tree stages are:
   
 * Create a realistic working simulation of tactical combat up to regiment level.
 
-# General time frame:
+## General time frame:
 
 1. Based on the addition of the [Notes on advancements of NLNM](./Notes_on_advancements_of_NLNM.md).  The first dimension of the Timeline of NLNM implementation will be technological progress and the associated increase in resource abundance.  The measuring factors are implementation of Nuclear Fusion Industry and Robotization.
 2. The hypothesized second dimention is the societal progress to intra-society No Theat of Violence, associated with the resource abundance and changed way of life.
