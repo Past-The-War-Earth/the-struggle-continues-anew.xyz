@@ -1,4 +1,4 @@
-# Notes on advancements of NLNM
+# Moral Advancement Related specifications
 
 1/26/2025 - Rewarded Load:
 
