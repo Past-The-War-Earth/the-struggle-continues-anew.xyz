@@ -33,7 +33,7 @@ Realistic mass-participation simulation of NLNM (Non-Lethal, Non-Mutilating, No 
 
 Earnest time and effort of domain experts, project manager and specialists.
 
-## Effort roadmap:
+## Product roadmap:
 
 Phase 1: Tactical (boxing version) NLNM combat.
 
