@@ -39,6 +39,8 @@ Phase 1: Multi-participant tactical simulation of controlled blunt impact NLNM c
 
 Phase 2 (parallel with Phase 1 with sufficient contributor participation): Multi-participant tactical simulation of projectile and boarding naval NLNM combat.
 
-Phase 3: Multi-participant tactical simulation of non-piloted remote-controlled mech combat in industrial zones.
+Phase 3: Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
 
 Phase 4: Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
+
+Phase 5: Add remotely piloted surface-to-air NLNM combat to Phase 3 and air-to-air NLNM combat.
