@@ -6,7 +6,7 @@ https://youtu.be/OiiogAygZaA?si=h7xzaWUR_7mNJsNx
 
 &#128070;
 
-Unintentionally derived acronym association:  EN - [TSCA](https://en.wikipedia.org/w/index.php?search=CSKA+clubs&title=Special%3ASearch&ns0=1&searchToken=5knw0wi4qzkqhvcp11essn6p6), RU - [ЦСКА](https://ru.wikipedia.org/wiki/%D0%A6%D0%A1%D0%9A%D0%90_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)) simulation is not intended to represent a sport.  It is intended to simulate tactical NLNM combat. It will have elements of external observation and aims for shared, en masse participation in simuations by cross-national, interested parties. 
+Unintentionally derived acronym association: EN - [CSKA](https://en.wikipedia.org/w/index.php?search=CSKA+clubs&title=Special%3ASearch&ns0=1&searchToken=5knw0wi4qzkqhvcp11essn6p6) , RU - [ЦСКА](https://ru.wikipedia.org/wiki/%D0%A6%D0%A1%D0%9A%D0%90_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)) ( near-correct phonentic transliteration - TSCA) simulation is not intended to represent a sport.  It is intended to simulate tactical NLNM combat. It will have elements of external observation and aims for shared, en masse participation in simuations by cross-national, interested parties. 
 
 Reasoning behind the project:
 
