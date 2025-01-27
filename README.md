@@ -14,7 +14,7 @@ Resulting phonentic association: TSCA
 
 ## Overall intention:
 
-With God's help and divine guidance achieving world peace in a continuous and evolutionary manner. Providing live-saving governable stability with migration paths for the concerned and influencing parties.
+With God's help and divine guidance achieving world peace in a continuous and evolutionary manner. Encouraging live-saving governable stability with migration paths for the concerned and influencing parties.
 Stimulating industrial growth channels with mission guidelines.
 
 ## Reasoning:
