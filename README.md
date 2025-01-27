@@ -34,4 +34,5 @@ Earnest time and effort of domain experts, project manager and specialists.
 Effort roadmap:
 
 Phase 1: Tactical (boxing version) NLNM combat.
+
 Phase 2: Tactical non-piloted mech warfare in separate engagements.
