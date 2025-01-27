@@ -1,5 +1,11 @@
 # The-Struggle-Continues-Anew.XYZ
 
+Name inspired by the alike named song:
+
+https://youtu.be/OiiogAygZaA?si=h7xzaWUR_7mNJsNx
+
+&#128070;
+
 Reasoning behind the project:
 
 https://past-the-war.earth/notes/future_projections-in_A_Better_World/Why_NLNM_and_not_just_Peace
