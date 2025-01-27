@@ -35,7 +35,7 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 ## Product roadmap:
 
-Phase 1: Multi-participant tactical simulation of NLNM combat (boxing version) in rural/unsettled areas.
+Phase 1: Multi-participant tactical simulation of blunt impact NLNM combat in rural/unsettled areas.
 
 Phase 2: Multi-participant tactical simulation of non-piloted remote-controlled mech combat in industrial zones.
 
