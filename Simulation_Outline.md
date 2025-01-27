@@ -2,6 +2,8 @@
 
 Hubly presenting the following, constructed with God's help outline:
 
+Phase 1
+
 Simulation will consist of 3 parts:
 
 I. Selection  screen with picking commanders of squad, platoon, company, battalion and regiment.  Squad level is to be disabled.  They should be represented by a frontal animated visual of the commanders in an manner alike the setting in the example below (reverse the example's possibly hinted at top-down order). Match the same feel of an alike situation for non-lethal, not-mutilating, no serious risk of severe injury version (no physical or character resemblance). Cavalry officer faces (see II.1.) should show internalization of possibility of ?lance breaking?, associated vectors and their outcomes, assuming proper protective gear (state of the art horse to rider interfacing, harnessing, airbags).  All faces should show internalization of "Everyone has a plan until they get punched in the face" (Mike Tyson) or whipped with a staff and pounded with a sword (via latest em-repelling swords and shields, variable flex staff, against active armor).  All faces should clearly demonstrate the responsibility of the corresponding level of command.
@@ -95,13 +97,15 @@ iv. Heavy artillery and light mobile artillery roughly follows the traditional d
 
 v. Shield infantry roughly equates to mechanized infantry with small to medium fire, short range weapons. In addition it is able to collectively construct impervious (active and passive) shielding and provide cover for mechs and in some cases mech carriers.
 
-VI. Long term additions:
+VI. Subsequent or parallel Phase simulations:
 
-1. Non-game simulation of non-piloted (remotely controlled via quantum entanglement controlled) Mech combat.
+2. Naval NLNM combat simulation.
 
-2. ? Projectile-based NLNM for urban (non-industrial) combat ?
+3. Non-piloted (remotely controlled via quantum entanglement controlled) Mech combat simulation.
 
-3. Surface-to-air (laser guided drone tracking by the air defence force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.
+4. Projectile-based NLNM for urban (non-industrial) combat.
+
+5. Surface-to-air (laser guided drone tracking by the air defence force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.
 
 [Example of current air drone agility](https://youtu.be/vntz6ZmVCfg?si=HyIPa0ZzkBj7Pi_M)
 
@@ -113,4 +117,4 @@ Inspirational video for tactics research:
 
 https://youtu.be/OHyVRkmla_Y?si=5WFeJaVAnE2gtdrb
 
-Symmetry of continuation in ground combat was found via continuous improvement of the proposal, thus revealing a historical cycle. Find symmetry between the most famous naval age (Age of Pirates) and the future of naval warfare and create a linking NLNM stage.  Assume that again separation of NLNM combat and strategically important remotely controlled (via quantum entanglement) mechanized combat.  Just as with ground combat, find the stage that links current naval combat to the NLNM stage combat.
+Symmetry of continuation in ground combat was found via continuous improvement of the proposal, thus revealing a historical cycle. Find symmetry between the most famous naval age (Age of Pirates) and the future of naval warfare and create a linking NLNM stage.  Assume that again separation of NLNM combat and strategically important remotely controlled (via quantum entanglement) mechanized combat.  Just as with ground combat, find the stage that links current naval combat to the NLNM stage combat.  Next technological advancement (mech equivalent) stage is expected to be an intermediate stage to the following techonogical advancement stage of early ship-to-ship space combat.
