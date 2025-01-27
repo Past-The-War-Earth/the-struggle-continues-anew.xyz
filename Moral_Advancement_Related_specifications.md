@@ -8,7 +8,7 @@
 
 3. Hand-to-hand NLNM combat is expected to be the "boots on the ground" earning the right of taking and holding territory, in the associated "slow and steady" way, if necessary for short or medium term occupation.  It is expected to take place in rural or unsettled areas.
 
-4. Exposure of the short term continents to simulated heavy and medium near-mech combat both prepares them for cross-service combat (prepared for the case of planetary emergency) and gives them the assurance of the might of the armed forces standing bind them in societal interactions.
+4. Exposure of the short term contingents to simulated heavy and medium near-mech combat both prepares them for cross-service combat (prepared for the case of planetary emergency) and gives them the assurance of the might of the armed forces standing bind them in societal interactions.
 
 5. Mass participation of short term personnel (serving for 1 to 4 years) in hand-to-hand combat is expected to build the defender mentality, associated with their armament of defensive, collectively highly effective shields and strike softening "boxing" gloves (in "boxing" version of hand-to-hand NLNM combat).  The exposure to service in Open Threat of Violence systems in combination with mass participation in NLNM combat is expected to reduce the levels of societal violence in All discharged veterans, without the physical and mental handicap associated with historically preceding combat systems.  Ultimately the expectation is personal growth past the natural stage of "proud warrior" (hypothetically linked to early-developmental and early-pre-historical ages of glorified, poorly controlled and thus potentially Total Violence) - in a controlled, disciplined and time-efficient manner.
 
