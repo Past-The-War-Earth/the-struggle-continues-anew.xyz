@@ -27,7 +27,7 @@ Realistic mass-participation simulation of NLNM (Non-Lethal, Non-Mutilating, No 
 
 "The year is 2128.  The new NLNM combat system has just been implemented but things are going horribly wrong.  Spain enlarges its platoons, Russians are taking their helmets off, and the East is a complete mess.  The UN house won't vote on the Europa migration pilot and we are losing sight of the goal.  You have been placed as the chief of staff of XYZ - the one country that is determined to get it done."
 
-## Ideal resource composition:
+## Ideal contribution composition:
 
 Earnest time and effort of domain experts, project manager and specialists.
 
