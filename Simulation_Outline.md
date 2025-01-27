@@ -105,7 +105,7 @@ VI. Subsequent or parallel Phase simulations:
 
 4. Projectile-based NLNM for urban (non-industrial) combat.
 
-5. Surface-to-air (laser guided drone tracking by the air defence force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.
+5. Surface-to-air (laser guided drone tracking by the air defence force, laser/heat high-energy weapons).   Simulate air drone to Mech combat.  Simulate air-to-air done combat.
 
 [Example of current air drone agility](https://youtu.be/vntz6ZmVCfg?si=HyIPa0ZzkBj7Pi_M)
 
