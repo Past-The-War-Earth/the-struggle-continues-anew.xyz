@@ -1,4 +1,4 @@
-# the-struggle-continues-anew.xyz
+# The-Struggle-Continues-Anew.XYZ
 
 Reasoning behind the project:
 
