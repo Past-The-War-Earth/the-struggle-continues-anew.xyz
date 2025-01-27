@@ -35,8 +35,10 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 ## Product roadmap:
 
-Phase 1: Multi-participant tactical simulation of blunt impact NLNM combat in rural/unsettled areas.
+Phase 1: Multi-participant tactical simulation of controlled blunt impact NLNM combat in rural/unsettled areas.
 
-Phase 2: Multi-participant tactical simulation of non-piloted remote-controlled mech combat in industrial zones.
+Phase 2 (parallel with Phase 1 with sufficient contributor participation): Multi-participant tactical simulation of projectile and boarding naval NLNM combat.
 
-Phase 3: Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
+Phase 3: Multi-participant tactical simulation of non-piloted remote-controlled mech combat in industrial zones.
+
+Phase 4: Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
