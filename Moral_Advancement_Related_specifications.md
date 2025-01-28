@@ -1,4 +1,4 @@
-# Moral Advancement Related specifications
+# Moral Advancement related specifications
 
 1/26/2025 - Rewarded Load:
 
