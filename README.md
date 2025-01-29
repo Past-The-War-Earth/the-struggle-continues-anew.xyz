@@ -48,4 +48,6 @@ Phase 4: Multi-participant tactical simulation of modern projectile based NLNM c
 Phase 5: Add remotely piloted surface-to-air NLNM combat to Phase 3 and air-to-air NLNM combat.
 
 
+[Artwork & Design](https://github.com/Past-The-War-Earth/NLNM-artwork-and-design)
+
 [Development](https://github.com/Past-The-War-Earth/NLNM-combat-simulation/tree/main)
