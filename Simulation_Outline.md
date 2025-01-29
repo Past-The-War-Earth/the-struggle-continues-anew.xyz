@@ -37,15 +37,19 @@ Inspirational video of national-styled armor and honorable demeanor:
 https://youtu.be/GqIMhrS14B0?si=9oYixkQKCQjfIjEv
 
 III.  
-a. A decision making interface is to be done via simulated augmented reality decision cube, allowing for near instantaneous data entry and reporting and real-time updates.  The interface should resemble that of Votecube prototype:
+a. A decision making and gathering interface is to be done via simulated augmented reality decision cube, allowing for near instantaneous data entry and reporting and real-time updates.  The interface should resemble that of Votecube prototype:
 
 https://votecube.com/#!/poll/info/Cube/vote/kBSVLFHn01lMtvPXYIzu/4vz9cPyZiMoaGG4JOh6t
 
-b. Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
+b. Real-time quick understandability reporting interface is to be added.  The interface should resemble that of "Hans the Organizator", with the addition of unit identifiers on the Gravity Circles, with more stable physics (movement fished after initial report update) and immediate updates on incoming high priority or high importance reports:
 
-c. Field overhead view is also to be present in augmented reality views, at appropriate levels for different types of command from different heights, down to non-commissioned officers.  Appropriate command interfaces are to be displayed as well.  Visual command interfaces are to be displayed along with associated arm, hand and finger movement animations.  No voice commands for AR interface.  Incoming voice communications can be pre-recorded.  Outgoing voice communications are to be implemented at a future time, for multi-participant simulations.  Eventual goal is for mass-participant simulations at all levels, with realistic communication appropriate to the rank. For example the battalion HQ officers are expected to have the option of seeing an overhead view of each of the companies and ability to communicate together via shared, avatar signed AR selection grouping and icon annotation.
+https://github.com/artem-v-shamsutdinov/Hans_the_Organizator
 
-d. Communication with soldiers is done via traditional horns and flags.  Emphasis on the symbolic and morale values.
+c. Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
+
+d. Field overhead view is also to be present in augmented reality views, at appropriate levels for different types of command from different heights, down to non-commissioned officers.  Appropriate command interfaces are to be displayed as well.  Visual command interfaces are to be displayed along with associated arm, hand and finger movement animations.  No voice commands for AR interface.  Incoming voice communications can be pre-recorded.  Outgoing voice communications are to be implemented at a future time, for multi-participant simulations.  Eventual goal is for mass-participant simulations at all levels, with realistic communication appropriate to the rank. For example the battalion HQ officers are expected to have the option of seeing an overhead view of each of the companies and ability to communicate together via shared, avatar signed AR selection grouping and icon annotation.
+
+e. Communication with soldiers is done via traditional horns and flags.  Emphasis on the symbolic and morale values.
 
 IV. Stretch goals:
 
