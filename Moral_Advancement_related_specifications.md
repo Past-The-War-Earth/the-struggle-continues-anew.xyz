@@ -22,4 +22,4 @@
 2. Female participation as commissioned and non-commissioned blunt impact NLNM combat officers is regulated by ability only.  Female non-commissioned officer (light) armor must be heavily reinforced with actively impact damping segments over and around reproductive organs and mammary glands. In cases of reduced armor mobility or force augmentation, the weight differential may be compensated by lighter, higher potential energy weaponry.  All commanders must comply with gender relations equality, use positive role model fostering and relinquish reproductive behavior while in the performance of duties.
 3. Female participation in fully armored (throw/draw arm excluded) projectile force is expected in units consistently exhibiting gender relations dissipline.
 4. Gender relations in non-combat roles are not regulated by the NLNM combat system.
-5. Female participation in gloved combat is prohibited due to permanent damaging of reproductive organs and mammary glands.
+5. Female participation in gloved combat is prohibited due avoid permanent damage of reproductive organs and mammary glands.
