@@ -16,4 +16,10 @@
 
 1. Opposing parties supplied at sufficiently different technological levels are expected to participate at technological parity, maintaining moral rights.  Best efforts must be put forth to ensure safe usage of horses (non-aligned, non-combative species) - if engaged their involvement must be strictly controlled (a la knight tournaments or culturally appropriate, sensible, detectable and demonstrative means) and coordinated via pre-battle positioning or equivalents. Metal swords are to be blunted or rounded, staff are to maintain elasticity of their impact and dampened momentum. Only non-piercing or armor penetrating lances or cultural equivalents are to be used. If no non-suffocating adhesive artillery may be supplied for both parties it is to be mutually foregone.  Suffocation-preventing helmets may be commonly supplied by the arbitraging party (UN).
 
-?...?
+2/27/2025 - Gender regulations:
+
+1. Female participation in blunt impact NLNM combat is encouraged in communication, drone operation and medical positions.  It is heavily encouraged in battlefield medic roles and medical evacuation drone operators.
+2. Female participation as commissioned and non-commissioned blunt impact NLNM combat officers is regulated by ability only.  Female non-commissioned officer (light) armor must be heavily reinforced with actively impact damping segments over and around reproductive organs and mammary glands. In cases of reduced armor mobility or force augmentation, the weight differential may be compensated by lighter, higher potential energy weaponry.  All commanders must comply with gender relations equality, use positive role model fostering and relinquish reproductive behavior while in the performance of duties.
+3. Female participation in fully armored (throw/draw arm excluded) projectile force is expected in units consistently exhibiting gender relations dissipline.
+4. Gender relations in non-combat roles are not regulated by the NLNM combat system.
+5. Female participation in gloved combat is prohibited due to permanent damaging of reproductive organs and mammary glands.
