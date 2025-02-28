@@ -21,7 +21,7 @@ The tree stages are:
 2. Expansion of projectile based NLNM combat. Partial implementation of mechanized-traditional based NLNM combat - enabled by continued technological progress.
 3. Mass adoption of projectile based NLNM combat. Expansion of mechanized-traditional based NLNM combat. Partial implementation of (remotely controlled via quantum entanglement controlled) Mech-based combat (zoned to evacuated industrial and strategic zones) - enabled by extanded industrial capacity.
   
-* Create a realistic working simulation of tactical combat up to regiment level.
+* By Spring 2031 create a limited realistic working simulation of tactical NLNM ground combat with enabled command-only participation at platoon to regiment commander level.
 
 ## General time frame:
 
