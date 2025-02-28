@@ -1,5 +1,8 @@
 # Gloved Combat Equipment
 
+Added after [Moral Advancement related specifications](../general_specifications_and_regulations
+/Moral_Advancement_related_specifications.md)
+
 Added: 2/27/2025
 
 ## No Serious Injury configuration
