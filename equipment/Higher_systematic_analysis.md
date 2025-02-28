@@ -1,5 +1,7 @@
 # Higher (range) systematic analysis
 
+Added after [Gloved Combat Equipment](../Gloved_Combat_Equipment.md)
+
 Added: 2/27/2025
 
 1. All short term contingent armor and mounted officer armor is modular medium personal, multi-level automated armor.  Gloved combatant armor has arm and frontal torso sections detached.  Projectile force armor has the throw/draw arm sections detached.  Battlefield medic and mounted officer armor has all sections, with medical equipment.
