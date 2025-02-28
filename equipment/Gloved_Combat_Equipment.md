@@ -24,7 +24,7 @@ Added: 2/27/2025
 
 1. Powered and ground impact augmented lower body armor greatly improves battlefield formation maintenance and ground control. In conjunction with sufficient shield power bank capacity and solar charging surfaces, powered armor enables organized and rapid cross-field advancement, maneuvering and retreats.  In case of temporary gloved combatant incapacitation such as exhaustion or sleep, leg armor could literally move him, the brace configuration of the armor could keep him upright, and armor automation and sensors could direct him.
 
-2. Self-powered and variable-level autonomous armor movement greatly simplify battlefield evacuation of injured combatants in a significant portion of possible cases, greatly reducing time to medical facility airlift or movement away from blunt impact zone towards a medic for aid application.
+2. Self-powered and variable-level autonomous armor movement greatly simplifies battlefield evacuation of injured combatants in a significant portion of possible cases, greatly reducing time to medical facility airlift or movement away from blunt impact zone towards a medic for aid application.
 
 ## Training 
 
