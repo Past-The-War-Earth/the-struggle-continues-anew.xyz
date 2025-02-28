@@ -1,5 +1,7 @@
 # Moral Advancement related specifications
 
+Added after [Simulation Outline](./Simulation_Outline.md)
+
 1/26/2025 - Rewarded Load:
 
 1. Hand-to-hand NLNM combat is expected to be backed by openly proclaimed moral grounds for initiating an aggression.  This aligns with the recorded Post-Imperial realities of the feudal systems (backing research needed). The Early-Imperial systems are associated with the currently hypothesized Systemized Violence. The following Feudal Systems are associated with the Open Threat of Violence.  Examples of such progressions are well known in Europe, Japan and are hypothesized to have taken place in all parts of the world, starting with the Assyrian Empire and historically evolving to less massive and severe levels of Systemized Violence.  The Open Threat of Violence allows for the morally lifting "Иду на вы" principle of declaring aggressive intentions.  This aligns with the hypothesized low economic incentive for territorial aggression in the resource abundant economic system of nuclear fusion energy and robotization, and thus necessitates backing of aggression on openly declared moral grounds.  The right to defend own territory and cultural ways is by default implied to have superior moral grounds.
