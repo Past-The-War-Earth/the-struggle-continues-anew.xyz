@@ -26,7 +26,6 @@ Added after [Simulation Outline](./Simulation_Outline.md)
 4. Gender relations in non-combat roles are not regulated by the NLNM combat system.
 5. Female participation in gloved combat is prohibited due avoid permanent damage of reproductive organs and mammary glands.
 
-Based on [Higher Systematic Analysis](../equipment
-/Higher_systematic_analysis.md):
+Based on [Higher Systematic Analysis](../equipment/Higher_systematic_analysis.md):
 
 All short term contingents across all specializations can be cross trained in technological combat with contemporary weaponry and full armor segment inclusions.
