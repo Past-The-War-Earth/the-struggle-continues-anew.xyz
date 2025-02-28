@@ -1,6 +1,6 @@
 # Simulation Outline
 
-Hubly presenting the following, constructed with God's help outline:
+Humbly presenting the following, constructed with God's help outline:
 
 Phase 1
 
