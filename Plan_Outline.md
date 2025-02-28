@@ -4,7 +4,7 @@ By 2028 complete:
 
 * Detailed plan for implementation of NLNM (Non-Lethal, Non-Mutilating, No Serious Injury) combat. It must successfully prove the feasibility of implementation of NLNM combat on a concrete schedule.
 
-* Based on analysis, create:
+* Based on produced analysis, create:
 
 1. A detailed goal based roadmap.
 2. Detailed level proposal 3 stages with full implementation.  
