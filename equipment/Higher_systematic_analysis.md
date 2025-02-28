@@ -4,7 +4,7 @@ Added after [Gloved Combat Equipment](./Gloved_Combat_Equipment.md)
 
 Added: 2/27/2025
 
-1. All short term contingent armor and mounted officer armor is modular medium personal, multi-level automated armor.  Gloved combatant armor has arm and frontal torso sections detached.  Projectile force armor has the throw/draw arm sections detached.  Battlefield medic and mounted officer armor has all sections, with medical equipment.
+1. All short term contingent armor and mounted officer armor is modular medium personal, multi-level automated armor.  Gloved combatant armor has arm and frontal torso sections detached.  Projectile force armor has the throw/draw arm sections detached.  Battlefield medic and mounted officer armor has all sections, with medical and command specializing equipment respectively.
 
 2. All armor across all classes is immune to adhesive projectiles.  The exposed areas of combatant bodies are vulnerable to adhesive projectiles. Mounts/horses are armored and are immune to adhesive projectiles.  NLNM mode mount shoes and horse hooves are vulnerable to adhesive projectiles.  All armor resists conventional projectile and energy payloads.
 
