@@ -1,4 +1,4 @@
-# Higher (range) systematic analysis:
+# Higher (range) systematic analysis
 
 Added: 2/27/2025
 
