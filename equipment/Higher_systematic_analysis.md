@@ -8,7 +8,7 @@ Added: 2/27/2025
 
 2. All armor across all classes is immune to adhesive projectiles.  The exposed areas of combatant bodies are vulnerable to adhesive projectiles. Mounts/horses are armored and are immune to adhesive projectiles.  NLNM mode mount shoes and horse hooves are vulnerable to adhesive projectiles.  All armor resists conventional projectile and energy payloads.
 
-3. Shields store energy in energy rapid release and capture capacitors.  They are capable of generating active, targeted electro-magnetic fields to repel projectiles and can capture energy payloads (a la regenerative shields).  In defensive dome or equivalent formations shielding and capacitor capabilities grow proportionally with increasing number of interlinked shields.
+3. Shields are powered by built-in high energy charge and discharge capacitors.  Shields are capable of generating active, targeted electro-magnetic fields to repel projectiles and can capture energy payloads (a la regenerative shields).  In defensive dome or equivalent formations shielding and capacitor capabilities grow proportionally with increasing number of interlinked shields.
 
 4. All medium armor is identical in hardware capabilities and has modular, NLNM and technological warfare enabled software capabilities.  All helmets have full communication and Augmented Reality capabilities.  In technological combat mode, targeting, path projection and engagement prediction and multi-level automation is universally enabled. In NLNM mode targeting and related capabilities are enabled for the projectile force.  Armor and body scanning and physical condition analysis are universally enabled.
 
