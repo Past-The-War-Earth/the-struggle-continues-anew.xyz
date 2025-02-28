@@ -1,5 +1,7 @@
 # Simulation Outline
 
+[Plan Outline](../Plan_Outline.md)
+
 Humbly presenting the following, constructed with God's help outline:
 
 Phase 1
