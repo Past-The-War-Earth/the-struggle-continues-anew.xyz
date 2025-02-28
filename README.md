@@ -43,7 +43,7 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 By 2028:
 
-Create specificatioin, regulations and implementation plan.  Finish creating the required technology layer.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing sides combatant, armor and equipment variations.
+Create specificatioin, regulations and implementation plan.  Finish creating the required technology layer.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing side combatant, armor and equipment variations.
 
 2. Phase 2
 
