@@ -49,7 +49,7 @@ Create specificatioin, regulations and implementation plan.  Finish creating the
 
 By Spring of 2031:
 
-Create a limited realistic working simulation of tactical NLNM ground combat with only the command-mode (Augmented Reality controls) participation enabled at platoon, company, battalion and regiment commander level.
+Create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon, company, battalion and regiment commander level.
 
 3. Phase 3
 
