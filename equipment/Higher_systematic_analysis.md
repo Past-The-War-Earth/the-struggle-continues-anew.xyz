@@ -1,6 +1,6 @@
 # Higher (range) systematic analysis
 
-Added after [Gloved Combat Equipment](../Gloved_Combat_Equipment.md)
+Added after [Gloved Combat Equipment](./Gloved_Combat_Equipment.md)
 
 Added: 2/27/2025
 
