@@ -126,3 +126,5 @@ Inspirational video for tactics research:
 https://youtu.be/OHyVRkmla_Y?si=5WFeJaVAnE2gtdrb
 
 Symmetry of continuation in ground combat was found via continuous improvement of the proposal, thus revealing a historical cycle. Find symmetry between the most famous naval age (Age of Pirates) and the future of naval warfare and create a linking NLNM stage.  Assume that again separation of NLNM combat and strategically important remotely controlled (via quantum entanglement) mechanized combat.  Just as with ground combat, find the stage that links current naval combat to the NLNM stage combat.  Next technological advancement (mech equivalent) stage is expected to be an intermediate stage to the following techonogical advancement stage of early ship-to-ship space combat.
+
+Next added [Moral Advancement related specifications](./Moral_Advancement_related_specifications.md)
