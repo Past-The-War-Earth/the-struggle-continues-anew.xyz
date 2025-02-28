@@ -35,17 +35,37 @@ Specification, regulations and implementation plan of NLNM (Non-Lethal, Non-Muti
 
 Earnest time and effort of domain experts, project manager and specialists.
 
-## Product roadmap:
+## Roadmap:
 
-Phase 1: Multi-participant tactical simulation of (training, enforced discipline and equipment controlled) blunt impact NLNM combat in rural/unsettled areas.
+1. Phase 1
 
-Phase 2 (parallel with Phase 1 with sufficient contributor participation): Multi-participant tactical simulation of projectile and boarding naval NLNM combat.
+By 2028:
 
-Phase 3: Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
+Create specificatioin, regulations and implementation plan.  Finish creating the required technology layer.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing sides combatant, armor and equipment variations.
 
-Phase 4: Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
+2. Phase 2
 
-Phase 5: Add remotely piloted surface-to-air NLNM combat to Phase 3 and air-to-air NLNM combat.
+By Spring of 2031:
+
+Create a limited realistic working simulation of tactical NLNM ground combat with enabled command-only participation at platoon to regiment commander level.
+
+3. Phase 3
+
+Timeframe - TBD
+
+Create full mass participation tactical simulation of (training, enforced discipline and equipment controlled) blunt impact NLNM combat in rural/unsettled areas.
+
+(Parallel with sufficient contributor participation) create comparable tactical simulation of projectile and boarding naval NLNM combat.
+
+4. Phase 4
+
+Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
+
+Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
+
+5. Phase 5
+
+Add remotely piloted surface-to-air NLNM combat to Phase 3 and air-to-air NLNM combat.
 
 
 [Artwork & Design](https://github.com/Past-The-War-Earth/NLNM-artwork-and-design)
