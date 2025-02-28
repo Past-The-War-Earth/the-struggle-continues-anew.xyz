@@ -25,7 +25,7 @@ https://past-the-war.earth/notes/future_projections-in_A_Better_World/Why_NLNM_a
 
 ## Target:
 
-Realistic mass-participation simulation of NLNM (Non-Lethal, Non-Mutilating, No Serious Injury) tactical combat.
+Specification, regulations and implementation plan of NLNM (Non-Lethal, Non-Mutilating, No Serious Injury) tactical combat.  Realistic, cross potential opponent mass-participation simulation.
 
 ## Original inspiration:
 
