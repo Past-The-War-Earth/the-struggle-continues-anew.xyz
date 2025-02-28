@@ -29,3 +29,5 @@ Added after [Simulation Outline](./Simulation_Outline.md)
 Based on [Higher Systematic Analysis](../equipment/Higher_systematic_analysis.md):
 
 All short term contingents across all specializations can be cross trained in technological combat with contemporary weaponry and full armor segment inclusions.
+
+Next added [Gloved Combat Equipment](./equipment/Gloved_Combat_Equipment.md)
