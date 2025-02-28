@@ -16,7 +16,7 @@ Added: 2/27/2025
 
 ## Defensive formations
 
-1. Lower back, belt and below armor should be heavily reinforced and braced to support several shield weights. Lower armor can be power-assisted when shields are attached to the back.  Shield sensors and helmet Augmented Reality vision should enable through-shield combat awareness when shield is carried in frontal defensive formations, or in shield structures.
+1. Lower back, belt and below armor should be heavily reinforced and braced to support several shield weights. Lower armor can be power-assisted when a shield is attached to the back of it.  Shield sensors and helmet Augmented Reality vision should enable through-shield combat awareness when shield is carried in frontal defensive formations, or in shield structures.
 
 2. Shields are to be near-rhombus shaped with configurable extensions to a rectangle or be otherwise sufficiently adjustable. Shields should be able to form a structurally ideal, impact-preventing dome or a functionally alike structure. Battlefield defensive structures should be supported at least at squad level with 7 side and 2 top shields or a functionally equivalent formation. Platoon and company size shielding and anchoring structures should be possible with advanced shield interlinking and adaptive structural supports. A non-combat usage of larger structures is mobile barracks.
 
