@@ -28,7 +28,7 @@ Added: 2/27/2025
 
 ## Training 
 
-Impact area limitations and armor assistance sufficiently reduce required skill level for blunt impact readiness of recruits for short term service durations of a year or two years.
+Impact area limitations and armor assistance sufficiently reduce required skill level for blunt impact readiness of recruits with short term service durations of a year or two years.
 
 ## Battlefield control
 
