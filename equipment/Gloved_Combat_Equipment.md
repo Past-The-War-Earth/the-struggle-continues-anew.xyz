@@ -6,7 +6,7 @@ Added: 2/27/2025
 
 ## No Serious Injury configuration
 
-1. To prevent permanent head and spine damage and to minimize organ damage gloved combatants should be fully armored except for the frontal torso (below collar bone and under pit structural connectors, and above belt level) and arms. A  civilian (mass) signal equivalent of such armor are variably-opened, short sleeved shirts. Around-the-shoulder areas should be exposed to prevent any force augmentation of arms.
+1. To prevent permanent head and spine damage and to minimize organ damage gloved combatants should be fully armored except for the frontal torso (below collar bone and under pit structural connectors, and above belt level) and arms. A  civilian (mass) signal equivalent of such armor are variably-opened, short sleeved collar shirts. Around-the-shoulder areas should be exposed to prevent any force augmentation of arms.
 
 2. Helmets should have hard outside shells and internal active impact dampening. In the spirit of contemporary automotive seat belts, structural arrangement should create a full body brace in case of high velocity impact to the head.  Head bracing should demotivate any excessive impact to the head.
 
