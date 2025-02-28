@@ -37,6 +37,8 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 ## Roadmap:
 
+[Plan Outline](./Plan_Outline.md)
+
 1. Phase 1
 
 By 2028:
