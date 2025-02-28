@@ -101,7 +101,7 @@ iv. Heavy artillery and light mobile artillery roughly follows the traditional d
 
 v. Shield infantry roughly equates to mechanized infantry with small to medium fire, short range weapons. In addition it is able to collectively construct impervious (active and passive) shielding and provide cover for mechs and in some cases mech carriers.
 
-VI.  [Higher systemic analysis](../equipment/Higher_systemic_analysis.md):
+VI.  [Higher systematic analysis](../equipment/Higher_systematic_analysis.md):
 
 With armor modularity and combat modality, NLNM combat cross-trains all personel for latest technological combat in personal, variably automated armor, using up-to-date technological weaponry.
 
