@@ -33,3 +33,5 @@ Impact area limitations and armor assistance sufficiently reduce required skill 
 ## Battlefield control
 
 Overall battlefield organization and control of hand-to-hand combat is greatly increased.
+
+Next added [Higher Systematic Analysis](./Higher_systematic_analysis.md)
