@@ -32,6 +32,6 @@ Impact area limitations and armor assistance sufficiently reduce required skill 
 
 ## Battlefield control
 
-Overall battlefield organization and control of hand-to-hand combat is greatly increased.
+Usage of self-powered, variable-level autonomous movement armor, with semi-automatic hierarchical command compliance, greatly improves battlefield organization and increases accuracy of control of NLNM combat.
 
 Next added [Higher Systematic Analysis](./Higher_systematic_analysis.md)
