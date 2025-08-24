@@ -67,13 +67,13 @@ Expand tactical simulation (integrated across cavalry, heavy armor, light armor,
 
 Enable smart armor with massively-collaborative NLNM goal accomplishment capabilities.
 
-### Additional Goal A
+### Additional Goal I
 
 Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
 
 Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
 
-### Additional Goal 2
+### Additional Goal II
 
 Remotely piloted surface-to-air NLNM and air-to-air NLNM combat.
 
