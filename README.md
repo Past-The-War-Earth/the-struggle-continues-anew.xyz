@@ -14,7 +14,7 @@ RU: [ЦСКА](https://ru.wikipedia.org/wiki/%D0%A6%D0%A1%D0%9A%D0%90_(%D0%B7%D0
 
 Resulting phonentic association: TSCA
 
-## Overall intention:
+## Overall Intention:
 
 With God's help and divine guidance achieve world peace in a continuous and evolutionary manner. Encourage live-saving governable stability with migration paths for the concerned and influencing parties.
 Stimulate industrial growth channels with mission guidelines.
