@@ -71,9 +71,11 @@ Enable smart armor with massively-collaborative NLNM goal accomplishment capabil
 
 Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
 
+### Additional Goal II
+
 Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
 
-### Additional Goal II
+### Additional Goal III
 
 Remotely piloted surface-to-air NLNM and air-to-air NLNM combat.
 
