@@ -39,33 +39,41 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 [Plan Outline](./Plan_Outline.md)
 
-1. Phase 1
+### Phase 0.5
 
 By 2028:
 
 Create specificatioin, regulations and implementation plan.  Finish creating the required technology layer.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing side combatant, armor and equipment variations.
 
-2. Phase 2
+### Phase 1
 
 By Spring of 2031:
 
-Create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon, company, battalion and regiment commander level.
+Create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon and company commander level.
 
-3. Phase 3
+### Phase 2
 
-Timeframe - TBD
+By 2043
 
-Create full mass participation tactical simulation of (training, enforced discipline and equipment controlled) blunt impact NLNM combat in rural/unsettled areas.
+Create full mass participation tactical simulation of (training, enforced discipline and equipment controlled, up to battalion level) blunt impact NLNM combat in rural/unsettled areas.
 
 (Parallel with sufficient contributor participation) create comparable tactical simulation of projectile and boarding naval NLNM combat.
 
-4. Phase 4
+### Phase 3
+
+By 2067
+
+Expand tactical simulation to regiment level.
+
+Enable smart armor with massively-collaborative NLNM goal accomplishment capabilities.
+
+### Additional Goal A
 
 Multi-participant tactical simulation of remotely-piloted mech combat in industrial zones.
 
 Multi-participant tactical simulation of modern projectile based NLNM combat in urban areas.
 
-5. Phase 5
+### Additional Goal 2
 
 Remotely piloted surface-to-air NLNM and air-to-air NLNM combat.
 
