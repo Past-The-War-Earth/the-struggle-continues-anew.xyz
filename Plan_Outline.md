@@ -28,6 +28,6 @@ The tree stages are:
 
 ## Simulation
   
-For visualization purposes, by Spring of 2031 create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon, company, battalion and regiment commander level.
+For visualization purposes, by Spring of 2031 create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon and company commander level.
 
 [Specifications and regulations](./general_specifications_and_regulations/Simulation_Outline.md)
