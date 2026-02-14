@@ -1,5 +1,19 @@
 # The-Struggle-Continues-Anew.XYZ
 
+## The Why
+
+Initial Impression Draft:
+
+"[Righteous](https://youtu.be/aMCFALhS90c?si=wfnE-GLVcyPHDkvT) and free-willed, united labor is our destiny.  The question is how will we get there in the time aloted."
+
+-- ??? 13/14.02.2026
+
+NLNM is meant for the ?transitional? times when economic drivers of war disappeared but our philosophical differences and territorial disputes remained.  The practical ?long-term driving? goal of Non-Lethal Non-Mutilating No Serious Injury Combat is letting the "struggling" core defend early on and ?pull their weight? as productive members of society, husbands and fathers from that point on.
+
+As such NLNM is no longer war but is the below defined ЦСКА - Central Spots Club of Army (which could act as соска if you think in millions of rotations, or more closely киска if you agree with the ?natural? pre-70M direction logically persisting :).  Its about building endurance as chance of serious injury is taken down to nil (null).
+
+Draft End
+
 ## Slogan namesake:
 
 https://youtu.be/OiiogAygZaA?si=h7xzaWUR_7mNJsNx
