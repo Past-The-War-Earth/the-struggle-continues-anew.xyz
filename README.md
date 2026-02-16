@@ -4,7 +4,7 @@
 
 I have come to a stern belief to move the NLNM simulation hub to the Eastern Hemisphere where cultural differences and territorial claims are highly likely to contribute to future combat.  Certainly developing NLNM solely in the United States of America will greatly reduce its chances of adoption.
 
-The devinitive conflict that forever deterimined the future of humanity is WWII.   There are several places on the planet with heavy history of involvent in this pivotal struggle.  While contributions from all corners of the world are welcomed, for historico-familial reasons the best place for the initial developer to continue his contributions is the Russian Federation.
+The definitive conflict that forever deterimined the future of humanity is WWII.  There are several places on the planet with heavy history of involvent in this pivotal struggle.  While contributions from all corners of the world are welcomed, for historico-familial reasons the best place for the initial developer to continue his contributions is the Russian Federation.
 
 ## The Why
 
