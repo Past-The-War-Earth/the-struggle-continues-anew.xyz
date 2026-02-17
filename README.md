@@ -20,6 +20,12 @@ As such NLNM is no longer war but is the below defined ЦСКА - Central Spots 
 
 Draft End
 
+It could be argued that one can easily attain peace from without.  But to have stable peace from without one must have peace from within.
+
+A river cannot be stopped without proper channels.
+
+2026-02-16/17
+
 ## Slogan namesake:
 
 https://youtu.be/OiiogAygZaA?si=h7xzaWUR_7mNJsNx
