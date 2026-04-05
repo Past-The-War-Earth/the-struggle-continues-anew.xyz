@@ -81,7 +81,7 @@ Create a high-level, abstract simulation of tactical NLNM ground combat with com
 
 By 2043
 
-Create full (cavalry to cavalry, heavy armor to heavy armor, light armor to light armor, gloved infantry to gloved infantry with projectile force interaction, first person) mass participation tactical simulation of (training, enforced discipline and equipment controlled, up to battalion level) blunt impact NLNM combat in rural/unsettled areas.
+Create full (cavalry to cavalry, heavy armor to heavy armor, light armor to light armor, gloved infantry to gloved infantry with projectile force interaction) mass participation (overhead view) tactical simulation of (training, enforced discipline and equipment controlled, up to battalion level) blunt impact NLNM combat in rural/unsettled areas.
 
 (Parallel with sufficient contributor participation) create comparable tactical simulation of projectile and boarding naval NLNM combat.
 
@@ -89,7 +89,7 @@ Create full (cavalry to cavalry, heavy armor to heavy armor, light armor to ligh
 
 By 2067
 
-Expand tactical simulation (integrated across cavalry, heavy armor, light armor, gloved infantry, projectile force and artillery) to regiment level.
+Expand tactical simulation (integrated across cavalry, heavy armor, light armor, gloved infantry, projectile force and artillery) to regiment level.  Enable realistic first-person experience.
 
 Enable smart armor with massively-collaborative NLNM goal accomplishment capabilities.
 
