@@ -10,7 +10,7 @@ The definitive conflict that forever deterimined the future of humanity is WWII.
 
 Initial Impression Draft:
 
-"[Righteous](https://youtu.be/aMCFALhS90c?si=wfnE-GLVcyPHDkvT) and free-willed, united labor is our destiny.  The question is how will we get there in the time aloted."
+"*[Righteous](https://youtu.be/aMCFALhS90c?si=wfnE-GLVcyPHDkvT) and free-willed, united labor is our destiny.  The question is how will we get there in the time aloted.*"
 
 -- ??? 13/14.02.2026
 
@@ -20,9 +20,9 @@ As such NLNM is no longer war but is the below defined ЦСКА - Central Spots 
 
 Draft End
 
-It could be argued that one can easily attain peace from without.  But to have stable peace from without one must have peace from within.
+*It could be argued that one can easily attain peace from without.  But to have stable peace from without one must have peace from within.*
 
-A river cannot be stopped without proper channels.
+*A river cannot be stopped without proper channels.*
 
 2026-02-16/17
 
@@ -69,13 +69,13 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 By 2028:
 
-Create specification, regulations and implementation plan.  Finish creating the required technology layer.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing side combatant, armor and equipment variations.
+Create specification, regulations and implementation plan.  Finish creating the technology layer required for Phase 1.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing side combatant, armor and equipment variations.
 
 ### Phase 1
 
 By Spring of 2031:
 
-Create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon and company commander level.
+Create a high-level, abstract simulation of tactical NLNM ground combat with command-only controls at platoon and company commander level.
 
 ### Phase 2
 
