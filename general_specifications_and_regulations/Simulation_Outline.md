@@ -45,7 +45,7 @@ https://votecube.com/#!/poll/info/Cube/vote/kBSVLFHn01lMtvPXYIzu/4vz9cPyZiMoaGG4
 
 b. Real-time quick understandability reporting interface is to be added.  The interface should resemble that of "Hans the Organizator", with the addition of unit identifiers on the Gravity Circles, with more stable physics (movement fished after initial report update) and immediate updates on incoming high priority or high importance reports:
 
-https://github.com/artem-v-shamsutdinov/Hans_the_Organizator
+https://github.com/data-independence-network/Hans_the_Organizator
 
 c. Non-combat drones are to be shown above the battlefield, enabling expedient evacuation, mass communication and overhead reporting.  3 parties are to be represented - the opposing sides and an arbiter (UN).
 
