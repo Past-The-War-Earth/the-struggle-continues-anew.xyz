@@ -1,5 +1,13 @@
 # The-Struggle-Continues-Anew.XYZ
 
+## It takes time
+
+Since WW2 the World mechanized, computerized and connected, decolonized, neocolonized and developed, divided into three, two and multiple assosiative groups.  And it is becoming increasingly apparent that over the rest of the century the world will artificially intelectualize, robotize and infra-automate, deneocolonize, cento-regionalize and equalize, multipolarize an regionalize and subcontinetalize.
+
+This continuous yet distinctly staged pattern of development will go along with generational changes in and societal acceptance of drone, robotic and fully automated defense.  And per the suggested NLNM schedule it will take another quarter century for humanity to come to acceptance of human participation in Non-Lethal, Non-Mutilating, No-Serious Injury combat system.
+
+Thus it makes sense for the development of NLNM combat simulation to follow the same quarter century associated schedule ...
+
 ## Moving East
 
 I have come to a stern belief to move the NLNM simulation hub to the Eastern Hemisphere where cultural differences and territorial claims are highly likely to contribute to future combat.  Certainly developing NLNM solely in the United States of America will greatly reduce its chances of adoption.
@@ -67,19 +75,19 @@ Earnest time and effort of domain experts, project manager and specialists.
 
 ### Phase 0.5
 
-By 2028:
+By 2048:
 
 Create specification, regulations and implementation plan.  Finish creating the technology layer required for Phase 1.  Gather artwork proposals.  Stretch goal: gather detailed 3D models for all opposing side combatant, armor and equipment variations.
 
 ### Phase 1
 
-By Spring of 2031:
+Around Mid-21st Century:
 
 Create a high-level, abstract simulation of tactical NLNM ground combat with command-only controls at platoon and company commander level.
 
 ### Phase 2
 
-By 2043
+Approaching 4th quarter of 21st century
 
 Create full (cavalry to cavalry, heavy armor to heavy armor, light armor to light armor, gloved infantry to gloved infantry with projectile force interaction) mass participation (overhead view) tactical simulation of (training, enforced discipline and equipment controlled, up to battalion level) blunt impact NLNM combat in rural/unsettled areas.
 
@@ -87,7 +95,7 @@ Create full (cavalry to cavalry, heavy armor to heavy armor, light armor to ligh
 
 ### Phase 3
 
-By 2067
+By the turn of the 22nd century
 
 Expand tactical simulation (integrated across cavalry, heavy armor, light armor, gloved infantry, projectile force and artillery) to regiment level.  Enable realistic first-person experience.
 
