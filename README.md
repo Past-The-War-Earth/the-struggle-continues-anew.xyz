@@ -2,7 +2,7 @@
 
 ## It takes time
 
-Since WW2 the World mechanized, computerized and connected, decolonized, neocolonized and developed, divided into three, two and multiple assosiative groups.  And it is becoming increasingly apparent that over the rest of the century the world will artificially intelectualize, robotize and infra-automate, deneocolonize, cento-regionalize and equalize, multipolarize an regionalize and subcontinetalize.
+Since WW2 the World mechanized, computerized and connected, decolonized, neocolonized and developed, divided into three, two and multiple assosiative groups.  And it is becoming increasingly apparent that over the rest of the century the world will artificially intelectualize, robotize and infra-automate, deneocolonize, cento-regionalize and equalize, multipolarize, macro-regionalize and subcontinetalize.
 
 This continuous yet distinctly staged pattern of development will go along with generational changes in and societal acceptance of drone, robotic and fully automated defense.  And per the suggested NLNM schedule it will take another quarter century for humanity to come to acceptance of human participation in Non-Lethal, Non-Mutilating, No-Serious Injury combat system.
 
