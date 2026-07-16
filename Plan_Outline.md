@@ -12,8 +12,7 @@ By 2028 complete:
 
 Timeframe boundaries:
 
-1. Conservative estimate:  Starting from 2028 - periods of 33, 33 and 34 years with the target year of 2128.
-2. Aggressive estimate:  Starting this year - periods of 13 to 16 years with the target years between 2065 and 2075.
+Starting from 2028 - periods of 33, 33 and 34 years with the target year of 2128.
 
 The tree stages are:
 
@@ -28,6 +27,6 @@ The tree stages are:
 
 ## Simulation
   
-For visualization purposes, by Spring of 2031 create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon and company commander level.
+For visualization purposes, by Spring of ~2050 create a limited, realistic simulation of tactical NLNM ground combat with command-only (Augmented Reality) controls at platoon and company commander level.
 
 [Specifications and regulations](./general_specifications_and_regulations/Simulation_Outline.md)
