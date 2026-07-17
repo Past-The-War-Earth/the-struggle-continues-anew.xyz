@@ -12,7 +12,9 @@ By 2028 complete:
 
 Timeframe boundaries:
 
-Starting from 2028 - periods of 33, 33 and 34 years with the target year of 2128.
+Conservative schedule: Starting from 2028 - periods of 33, 33 and 34 years with the target year of 2128.
+
+Optimistic schedule: Starting from 2025 - periods of 13 to 16 years with the target year range from around 2065 to around 2075.
 
 The tree stages are:
 
